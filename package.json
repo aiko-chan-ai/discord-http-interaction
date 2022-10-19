@@ -1,0 +1,35 @@
+{
+  "name": "discord-http-interaction",
+  "version": "1.0.2",
+  "description": "JS/Node helpers for Discord.js Interactions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "types": "index.d.ts",
+  "keywords": [
+    "discord.js",
+    "discord",
+    "discord bot",
+    "interaction",
+    "http",
+    "express"
+  ],
+  "directories": {
+    "lib": "./"
+  },
+  "author": "aiko-chan-ai",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "tweetnacl": "^1.0.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aiko-chan-ai/discord-http-interaction.git"
+  },
+  "bugs": {
+    "url": "https://github.com/aiko-chan-ai/discord-http-interaction/issues"
+  },
+  "homepage": "https://github.com/aiko-chan-ai/discord-http-interaction#readme"
+}
